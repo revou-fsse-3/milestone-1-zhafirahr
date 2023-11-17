@@ -12,7 +12,7 @@
 
 ### Content Creation Process
 
-<p>Let's nostalgic a bit about the reason I take this </p>
+<p>Let's nostalgic a bit about the reason I create this landing page</p>
 <p>I came up with this idea because I was reminded of content related to women's empowerment and mental health (started from remembering the "semicolon project" and one part of my life story) and Brainstorming with some friends.</p>
 
 ### HTML 
